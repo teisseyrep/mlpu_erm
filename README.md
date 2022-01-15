@@ -1,1 +1,1 @@
-# mlpu_erm
+The project concerns the positive-unlabelled multi-label scenario in which multiple target variables are not observed directly. Instead, we observe surrogate variables indicating  whether the   target variables are labelled  or not. The presence of the label means that the  variable is positive. The absence of the label  means that the  variable can be either positive or negative. We analyse embedded feature selection methods based on two weighted penalized empirical risk minimization frameworks. 
